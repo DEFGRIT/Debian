@@ -22,6 +22,7 @@ sudo apt remove seahorse -y
 sudo apt remove shotwell -y
 sudo apt remove simple-scan -y
 sudo apt remove gnome-sound-recorder -y
+sudo apt remove evolution -y
 sudo apt autoremove -y
 sudo apt install gnome-shell-extension-dashtodock -y
 echo "Please log off and log back in again, afterwards enable Dash-To-Dock"
